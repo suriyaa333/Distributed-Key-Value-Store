@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "crypto": "^1.0.1",
     "hapi": "^18.1.0",
     "loadash": "^1.0.0"
   }
